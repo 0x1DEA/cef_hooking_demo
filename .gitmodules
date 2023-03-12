@@ -1,0 +1,12 @@
+[submodule "vendor/minhook"]
+	path = vendor/minhook
+	url = https://github.com/TsudaKageyu/minhook
+[submodule "vendor/cocos-headers"]
+	path = vendor/cocos-headers
+	url = https://github.com/HJfod/cocos-headers
+[submodule "cef-cmake"]
+	path = vendor/cef-cmake
+	url = https://github.com/iboB/cef-cmake
+[submodule "vendor/glew-cmake"]
+	path = vendor/glew-cmake
+	url = https://github.com/Perlmint/glew-cmake
